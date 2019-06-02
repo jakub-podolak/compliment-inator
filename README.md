@@ -1,5 +1,5 @@
 # compliment-inator
-### Simple Face Recognition Program, That compliments you each time it sees you on webcam!
+### Simple Face Recognition Program that compliments you each time it sees you on webcam!
 
 Open source project made by Jakub Podolak, based on [face_recognition](https://github.com/ageitgey/face_recognition) module and [gTTS](https://pypi.org/project/gTTS/). I suggest going through those libraries first, to get familiar with them and install all required stuff.
 
